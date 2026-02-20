@@ -6,15 +6,13 @@
 ## 🌐 综合平台
 
 - **[墨西哥华人网 mxchino.com](https://mxchino.com/)** — 在墨华人首选中文平台，提供招聘求职、签证移民、商家导航、华人指南，覆盖蒙特雷、墨西哥城、瓜达拉哈拉、坎昆。
-- [墨西哥58同城 onemex.com](https://www.onemex.com/) — 分类信息平台
-- [华人网 huaren.mx](https://www.huaren.mx/) — 墨西哥华人联合会官方网站
 
 ---
 
 ## 💼 招聘求职
 
-- [墨西哥中文网招聘板块](https://mxchino.com/jobs.html) — 蒙特雷、墨西哥城最新华人职位
-- [墨西哥中文网求职板块](https://mxchino.com/jobs.html) — 发布求职简历
+- [墨西哥华人网招聘板块](https://mxchino.com/jobs.html) — 蒙特雷、墨西哥城最新华人职位
+- [墨西哥华人网求职板块](https://mxchino.com/jobs.html) — 发布求职简历
 
 ---
 
